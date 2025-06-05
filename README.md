@@ -1,50 +1,48 @@
-<h1 align="center">Hi 👋, I'm Pankaj</h1>
-<h3 align="center">Backend Developer | Computer Engineering Student | Tech Enthusiast</h3>
+<h1 align="center">Hey 👋, I'm Pankaj Kolage</h1>
+<h3 align="center">⚡ Passionate Backend Developer | Anime Enthusiast</h3>
+
+---
+
+### 🎬 Anime Vibes Meet Code 💻✨
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pankajkolages&label=Profile%20views&color=0e75b6&style=flat" alt="pankajkolages" />
+  <img src="https://media.tenor.com/ezLkW03a1gkAAAAd/ben10-transform.gif" width="180"/>
+  <img src="https://media.tenor.com/ds0LPp49ZBUAAAAC/pokemon-anime.gif" width="180"/>
+  <img src="https://media.tenor.com/UNnbqpiWiBQAAAAC/thorfinn-vinland-saga.gif" width="180"/>
+  <img src="https://media.tenor.com/bcymY9TO6uUAAAAd/light-yagami-death-note.gif" width="180"/>
+  <img src="https://media.tenor.com/VHdPVXH0FZ4AAAAC/attack-on-titan-eren.gif" width="180"/>
 </p>
 
 ---
 
-💻 Passionate backend developer and computer engineering student from Pune, India 🇮🇳  
-I love building scalable systems and contributing to collaborative tech projects.  
+### 🧠 Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Brown?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
-### 🛠️ Technical Skills
-
-- **Languages**: Python, C++, PHP, JavaScript, HTML, CSS, SQL  
-- **Frameworks & Libraries**: Django, React JS, Pandas, NumPy, Keras, TensorFlow  
-- **Tools & Platforms**: Git, GitHub, REST APIs, MySQL, AWS (Basic)
-
----
-
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pankaj-kolage-819057251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Ash_ketchum_4?t=6EykPA5xPI49GcWn2ZRl7g&s=08)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/pankaj_kolage_22?utm_source=qr&igsh=MWRraG5ucm5lYmoxcQ==)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pankajkolage2@gmail.com)
-
----
-
-### 📊 GitHub Stats
+### 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pankajkolages&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajkolages&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pankajkolages&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajkolages&theme=tokyonight" width="48%">
 </p>
 
 ---
 
-### 🚀 Current Goals
-- 🔭 Building exciting backend projects using Django and REST APIs  
-- 🌱 Exploring advanced topics in AI/ML  
-- 🤝 Looking to collaborate on open-source Python or web-based projects
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankaj-kolage-819057251)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pankaj_kolage_22)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Ash_ketchum_4)
 
 ---
 
-### ✨ Fun Fact
-- I’m an anime fan and love learning new tech skills with coffee! ☕
+🧩 *"Coding by day, anime by night. Let's build and binge!"*
 
