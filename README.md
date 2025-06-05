@@ -3,7 +3,6 @@
 
 ---
 
-### 🎬 Anime Vibes Meet Code 💻✨
 
 ### 🎬 Anime Vibes Meet Code 💻✨
 
