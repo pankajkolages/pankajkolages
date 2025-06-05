@@ -7,7 +7,7 @@
 ### 🎬 Anime Vibes Meet Code 💻✨
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1B7rhKL0AI7OU4Qml1pkJ1-mnANNumH0c" width="180"/>
+  <img src="https://drive.google.com/uc?export=view&id=1C0Be9uKlewmCJvxyEt8gFzgOrt-HjO67" width="180"/>
  <img src="https://drive.google.com/uc?export=view&id=1l6MN8aIXMzNA_TdQlQjn50uX6USe8y29" width="180"/>
 <img src="https://drive.google.com/uc?export=view&id=1g1uhzq4otz9C00zRkLzNRqfAl6X-KzFO" width="180"/>
   <img src="https://drive.google.com/uc?export=view&id=1pfnOqTk7hI5RuAPZwkd3mX-WzLT_QpED" width="180"/>
