@@ -6,11 +6,11 @@
 ### 🎬 Anime Vibes Meet Code 💻✨
 
 <p align="center">
-  <img src="https://media.tenor.com/ezLkW03a1gkAAAAd/ben10-transform.gif" width="180"/>
-  <img src="https://media.tenor.com/ds0LPp49ZBUAAAAC/pokemon-anime.gif" width="180"/>
-  <img src="https://media.tenor.com/UNnbqpiWiBQAAAAC/thorfinn-vinland-saga.gif" width="180"/>
-  <img src="https://media.tenor.com/bcymY9TO6uUAAAAd/light-yagami-death-note.gif" width="180"/>
-  <img src="https://media.tenor.com/VHdPVXH0FZ4AAAAC/attack-on-titan-eren.gif" width="180"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="80" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="180"/>
+  <img src="https://media.giphy.com/media/jt7bAtEijhurm/giphy.gif" width="180"/> <!-- Death Note -->
+  <img src="https://media.giphy.com/media/sK6aX3Yp3fD8A/giphy.gif" width="180"/> <!-- AoT Eren -->
+  <img src="https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif" width="180"/> <!-- general anime code vibe -->
 </p>
 
 ---
@@ -45,4 +45,3 @@
 ---
 
 🧩 *"Coding by day, anime by night. Let's build and binge!"*
-
