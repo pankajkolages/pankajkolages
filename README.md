@@ -6,11 +6,9 @@
 ### 🎬 Anime Vibes Meet Code 💻✨
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="80" />
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="180"/>
-  <img src="https://media.giphy.com/media/jt7bAtEijhurm/giphy.gif" width="180"/> <!-- Death Note -->
-  <img src="https://media.giphy.com/media/sK6aX3Yp3fD8A/giphy.gif" width="180"/> <!-- AoT Eren -->
-  <img src="https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif" width="180"/> <!-- general anime code vibe -->
+  <img src="https://drive.google.com/uc?export=view&id=YOUR_FIRST_IMAGE_ID" width="180"/>
+  <img src="https://drive.google.com/uc?export=view&id=YOUR_SECOND_IMAGE_ID" width="180"/>
+  <img src="https://drive.google.com/uc?export=view&id=YOUR_THIRD_IMAGE_ID" width="180"/>
 </p>
 
 ---
