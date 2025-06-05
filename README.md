@@ -5,11 +5,16 @@
 
 ### 🎬 Anime Vibes Meet Code 💻✨
 
+### 🎬 Anime Vibes Meet Code 💻✨
+
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=YOUR_FIRST_IMAGE_ID" width="180"/>
-  <img src="https://drive.google.com/uc?export=view&id=YOUR_SECOND_IMAGE_ID" width="180"/>
-  <img src="https://drive.google.com/uc?export=view&id=YOUR_THIRD_IMAGE_ID" width="180"/>
+  <img src="https://drive.google.com/uc?export=view&id=1B7rhKL0AI7OU4Qml1pkJ1-mnANNumH0c" width="180"/>
+  <img src="https://drive.google.com/uc?export=view&id=10E-OwqH6fC1zr7h7gGz20tJzscMFJ1te" width="180"/>
+  <img src="https://drive.google.com/uc?export=view&id=10Bh0Ao_L8oamnSBxWcA3x36PkeIvdaQA" width="180"/>
+  <img src="https://drive.google.com/uc?export=view&id=1pfnOqTk7hI5RuAPZwkd3mX-WzLT_QpED" width="180"/>
+  <img src="https://drive.google.com/uc?export=view&id=1iT_IYTiLdvjEsicoAEnb8odXwBRwU14x" width="180"/>
 </p>
+
 
 ---
 
