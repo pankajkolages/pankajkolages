@@ -1,8 +1,7 @@
 <h1 align="center">Hey 👋, I'm Pankaj Kolage</h1>
-<h3 align="center">⚡ Passionate Backend Developer | Anime Enthusiast</h3>
+<h3 align="center">⚡ Passionate ML Developer | Anime Enthusiast</h3>
 
 ---
-
 
 ### 🎬 Anime Vibes Meet Code 💻✨
 
@@ -12,23 +11,30 @@
   <img src="https://drive.google.com/uc?export=view&id=1g1uhzq4otz9C00zRkLzNRqfAl6X-KzFO" width="160"/>
   <img src="https://drive.google.com/uc?export=view&id=1pfnOqTk7hI5RuAPZwkd3mX-WzLT_QpED" width="160"/>
   <img src="https://drive.google.com/uc?export=view&id=1iT_IYTiLdvjEsicoAEnb8odXwBRwU14x" width="160"/>
-
- 
- 
 </div>
-
 
 ---
 
 ### 🧠 Tech Stack & Tools
 
+#### 🚀 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+#### 📊 ML / Data Science
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+#### 🔧 Tools & Platforms
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Brown?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
